@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Asclepius" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/asclepius_theme_dark_primary</item>
+        <item name="colorOnPrimary">@color/asclepius_theme_dark_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/asclepius_theme_dark_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/asclepius_theme_dark_onPrimaryContainer</item>
+        <item name="colorSecondary">@color/asclepius_theme_dark_secondary</item>
+        <item name="colorOnSecondary">@color/asclepius_theme_dark_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/asclepius_theme_dark_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/asclepius_theme_dark_onSecondaryContainer</item>
+        <item name="colorTertiary">@color/asclepius_theme_dark_tertiary</item>
+        <item name="colorOnTertiary">@color/asclepius_theme_dark_onTertiary</item>
+        <item name="colorTertiaryContainer">@color/asclepius_theme_dark_tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/asclepius_theme_dark_onTertiaryContainer</item>
+        <item name="colorError">@color/asclepius_theme_dark_error</item>
+        <item name="colorErrorContainer">@color/asclepius_theme_dark_errorContainer</item>
+        <item name="colorOnError">@color/asclepius_theme_dark_onError</item>
+        <item name="colorOnErrorContainer">@color/asclepius_theme_dark_onErrorContainer</item>
+        <item name="android:colorBackground">@color/asclepius_theme_dark_background</item>
+        <item name="colorOnBackground">@color/asclepius_theme_dark_onBackground</item>
+        <item name="colorSurface">@color/asclepius_theme_dark_surface</item>
+        <item name="colorOnSurface">@color/asclepius_theme_dark_onSurface</item>
+        <item name="colorSurfaceVariant">@color/asclepius_theme_dark_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/asclepius_theme_dark_onSurfaceVariant</item>
+        <item name="colorOutline">@color/asclepius_theme_dark_outline</item>
+        <item name="colorOnSurfaceInverse">@color/asclepius_theme_dark_inverseOnSurface</item>
+        <item name="colorSurfaceInverse">@color/asclepius_theme_dark_inverseSurface</item>
+        <item name="colorPrimaryInverse">@color/asclepius_theme_dark_inversePrimary</item>
+    </style>
+</resources>

@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Asclepius" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/asclepius_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/asclepius_theme_light_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/asclepius_theme_light_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/asclepius_theme_light_onPrimaryContainer</item>
+        <item name="colorSecondary">@color/asclepius_theme_light_secondary</item>
+        <item name="colorOnSecondary">@color/asclepius_theme_light_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/asclepius_theme_light_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/asclepius_theme_light_onSecondaryContainer</item>
+        <item name="colorTertiary">@color/asclepius_theme_light_tertiary</item>
+        <item name="colorOnTertiary">@color/asclepius_theme_light_onTertiary</item>
+        <item name="colorTertiaryContainer">@color/asclepius_theme_light_tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/asclepius_theme_light_onTertiaryContainer</item>
+        <item name="colorError">@color/asclepius_theme_light_error</item>
+        <item name="colorErrorContainer">@color/asclepius_theme_light_errorContainer</item>
+        <item name="colorOnError">@color/asclepius_theme_light_onError</item>
+        <item name="colorOnErrorContainer">@color/asclepius_theme_light_onErrorContainer</item>
+        <item name="android:colorBackground">@color/asclepius_theme_light_background</item>
+        <item name="colorOnBackground">@color/asclepius_theme_light_onBackground</item>
+        <item name="colorSurface">@color/asclepius_theme_light_surface</item>
+        <item name="colorOnSurface">@color/asclepius_theme_light_onSurface</item>
+        <item name="colorSurfaceVariant">@color/asclepius_theme_light_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/asclepius_theme_light_onSurfaceVariant</item>
+        <item name="colorOutline">@color/asclepius_theme_light_outline</item>
+        <item name="colorOnSurfaceInverse">@color/asclepius_theme_light_inverseOnSurface</item>
+        <item name="colorSurfaceInverse">@color/asclepius_theme_light_inverseSurface</item>
+        <item name="colorPrimaryInverse">@color/asclepius_theme_light_inversePrimary</item>
+    </style>
+
+    <style name="Theme.Asclepius" parent="Base.Theme.Asclepius" />
+</resources>
